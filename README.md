@@ -23,6 +23,8 @@ ________________________________________
   - Test content strategies (e.g., recommendations, internal links) to drive page exploration.
 - **2.	Leverage Strengths in Actions:**
   - Maintain elements in Version B that encourage quick actions, such as simplified CTAs.
+    ![image](https://github.com/user-attachments/assets/80ed6f76-0f36-4edf-a416-0977d5997769)
+
 ________________________________________
 ## 2. Conversion Metrics
 - **Key Metrics:**
@@ -58,6 +60,7 @@ ________________________________________
   - Ensure pages load quickly and function seamlessly across all devices.
   - **4.	Improve Purchase Intent:**
   - Introduce targeted offers, discounts, or cart abandonment reminders to convert hesitant users.
+    ![image](https://github.com/user-attachments/assets/16cf4518-cbba-4355-8a33-ede77c442778)
 ________________________________________
 ## 3. Content Interaction Metrics
 - **Feedback Submission Rate:**
@@ -79,26 +82,27 @@ ________________________________________
   - **Product 2: 72.0%**.
   - **Product 3: 72.3%**.
 - **Insights:**
-  - Version B shows strong performance in video engagement and product interaction rates, particularly through social media traffic.
+  - **Version B** shows strong performance in video engagement and product interaction rates, particularly through social media traffic.
   - Despite these strengths, feedback submission lags slightly, and drop-offs during checkout remain a critical issue.
 - **Actionable Recommendations:**
-1.	Promote Social Media Content:
-o	Leverage social media campaigns to drive traffic, given Version B’s high video watch rates.
-2.	Enhance Product Pages in Version A:
-o	Replicate successful elements from Version B’s product interaction strategies to boost engagement.
-3.	Improve Feedback Collection:
-o	Test incentive-based strategies and simplify feedback forms to exceed the industry standard.
+  - **1.	Promote Social Media Content:**
+  - Leverage social media campaigns to drive traffic, given **Version B’s** high video watch rates.
+  - **2.	Enhance Product Pages in Version A:**
+  - Replicate successful elements from **Version B’s** product interaction strategies to boost engagement.
+  - **3.	Improve Feedback Collection:**
+  - Test incentive-based strategies and simplify feedback forms to exceed the industry standard.
+    ![image](https://github.com/user-attachments/assets/db279181-5136-4fd5-88e1-eb5ce2fd3023)
 ________________________________________
-4. Strategic Recommendations
-Short-Term (0–3 Months):
-1.	Fix Checkout Issues in Version B:
-o	Streamline forms, improve payment options, and add trust signals.
-o	Conduct A/B testing to identify specific causes for drop-offs.
-2.	Prioritize Version A for High Conversion Rates:
-o	Use Version A as the primary version for conversion-focused campaigns.
-Medium-Term (3–6 Months):
-1.	Hybrid Version Testing:
-o	Combine strengths of both versions:
+## 4. Strategic Recommendations
+- **Short-Term (0–3 Months):**
+  - **1.	Fix Checkout Issues in Version B:**
+  - Streamline forms, improve payment options, and add trust signals.
+  - Conduct A/B testing to identify specific causes for drop-offs.
+  - **2.	Prioritize Version A for High Conversion Rates:**
+  - Use **Version A** as the primary version for conversion-focused campaigns.
+- **Medium-Term (3–6 Months):**
+  - **1.	Hybrid Version Testing:**
+  - **Combine strengths of both versions:**
 	Version A’s higher engagement and conversion efficiency.
 	Version B’s strong product interaction and video engagement.
 2.	Optimize Social Media Traffic:
